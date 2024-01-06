@@ -7,7 +7,7 @@ Created on Sat Jan  6 21:23:05 2024
 
 
 import streamlit as st
-from streamlit_extras.add_vertical_space import add_vertical_space
+#from streamlit_extras.add_vertical_space import add_vertical_space
 
 
 st.set_page_config(page_title='🤗💬 PDF Chat App - GPT')
@@ -23,6 +23,6 @@ with st.sidebar:
     - [OpenAI](https://platform.openai.com/docs/models) LLM model
 
     ''')
-    add_vertical_space(5)
+ #   add_vertical_space(5)
     st.write('Made with ❤️ by [Livia Ellen](https://liviaellen.com/portfolio)')
 
