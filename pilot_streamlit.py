@@ -7,7 +7,7 @@ Created on Sat Jan  6 21:23:05 2024
 
 
 import streamlit as st
-from PyPDF2 import PdfReader
+#from PyPDF2 import PdfReader
 
 #from streamlit_extras.add_vertical_space import add_vertical_space
 
